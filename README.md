@@ -1,1 +1,1 @@
-# customer-segmentation-api
+# customer-segmentation
